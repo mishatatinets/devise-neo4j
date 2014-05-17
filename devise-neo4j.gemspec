@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "neo4j", branch: 'rails4'
   s.add_runtime_dependency "devise"
   
-  s.add_development_dependency "rails", "~> 4.1.0"
+  s.add_development_dependency "rails"
   s.add_development_dependency "rake"
   s.add_development_dependency "webrat"
   s.add_development_dependency "mocha"
