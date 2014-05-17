@@ -20,7 +20,6 @@ Gem::Specification.new do |s|
   
   s.add_runtime_dependency "oa-oauth"
   s.add_runtime_dependency "oa-openid"
-  s.add_runtime_dependency "neo4j", git: 'git://github.com/andreasronge/neo4j.git', branch: 'rails4'
   s.add_runtime_dependency "devise"
   
   s.add_development_dependency "rails"
